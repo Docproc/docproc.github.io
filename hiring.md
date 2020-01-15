@@ -14,7 +14,7 @@ A good hiring process should consist of the following stages:
 
 - success!
 
-HERE
+1 HERE
 
 ## Advertising and tracking applications
 
