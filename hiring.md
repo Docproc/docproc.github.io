@@ -4,7 +4,7 @@ Recruitment and hiring is a subject close to my heart, so I wanted to share some
 
 A good hiring process should consist of the following stages:
 
-- advertise the 3job and pre-screen CVs
+- advertise the job and pre-screen CVs
 
 - phone interview
 
