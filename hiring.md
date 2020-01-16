@@ -16,7 +16,7 @@ A good hiring process should consist of the following stages:
 
 ## Advertising and tracking applications
 
-Advertise anywhere you think might be relevant, for example LinkedIn, your company's social media feeds, and industry-specific websites and feeds. For actually hosting the advert and managing applications, I like Workable [[https://www.workable.com/](https://www.workable.com/)]. It’s a great service which keeps track of applicants as they progress through the interview process. Recently Workable has several features that help with scoring people during interviews.
+Advertise anywhere you think might be relevant, for example LinkedIn, your company's social media feeds, and industry-specific websites and feeds. For actually hosting the advert and managing applications, I like [Workable](https://www.workable.com/). It’s a great service which keeps track of applicants as they progress through the interview process. Recently Workable has several features that help with scoring people during interviews.
 
 ## General guidelines
 
